@@ -1,6 +1,6 @@
 # pythonpdfsplitter
 
-For now Mac only
+Mac and Linux only
 
 # prerequisites
 - PyPDF2 Python Package
